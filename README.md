@@ -60,7 +60,11 @@ My goal is to become a backend developer capable of building reliable, scalable,
 
 ---
 
-<a href="mailto:edemanuelreis.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/edson-emanuel-reis-alves-b32335313"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:edemanuelreis.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> edemanuelreis.dev@gmail.com
+
+<br/>
+
+<a href="https://www.linkedin.com/in/edson-emanuel-reis-alves-b32335313"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/EdsonEmanuelReis/EdsonEmanuelReis/output/github-contribution-grid-snake-dark.svg" />
