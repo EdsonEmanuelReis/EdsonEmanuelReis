@@ -24,7 +24,7 @@ My goal is to become a backend developer capable of building reliable, scalable,
 - 🏗️ Backend development with Java & Spring Boot
 - 🔧 Clean architecture & system design
 - 📐 Object-oriented programming & business logic
-- 🗄️ Database integration with SQL & JPA
+- 🗄️ Currently studying SQL & JPA
 - 🚀 REST API development
 - 📚 Always learning and building real projects
 
@@ -39,11 +39,15 @@ My goal is to become a backend developer capable of building reliable, scalable,
 ---
 ### 🌱 Currently Learning
 
-- Spring Boot
-- REST API Best Practices
-- Database Integration
-- Git & GitHub Workflows
+- SQL & Database Integration with JPA
 - Software Design Principles
+- Unit Testing with JUnit
+
+---
+
+## 📌 Projects
+
+- **[Hospital API](https://github.com/EdsonEmanuelReis/hospital-api)** — REST API with Spring Boot for managing patients and appointments
 
 ---
 ### 📊 GitHub Stats
