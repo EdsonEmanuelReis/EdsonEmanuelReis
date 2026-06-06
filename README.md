@@ -48,7 +48,7 @@ My goal is to become a backend developer capable of building reliable, scalable,
 ## 📌 Projects
 
 - **[Hospital API](https://github.com/EdsonEmanuelReis/hospital-api)** — REST API with Spring Boot for managing patients and appointments
-- - **[Sistema de Burnout Acadêmico](https://github.com/EdsonEmanuelReis/sistema-burnout-academico)** — REST API built with Java and Spring Boot for academic monitoring and student burnout risk detection
+- **[Sistema de Burnout Acadêmico](https://github.com/EdsonEmanuelReis/sistema-burnout-academico)** — REST API built with Java and Spring Boot for academic monitoring and student burnout risk detection
 
 ---
 ### 📊 GitHub Stats
